@@ -1,4 +1,4 @@
-# Hi there, I'm Fredy Quintero! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Fredy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 I'm a Computer Engineering professional passionate about building scalable applications and exploring new technologies. Welcome to my portfolio and project showcase. Feel free to check it out!
 
