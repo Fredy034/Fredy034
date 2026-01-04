@@ -5,7 +5,7 @@ I'm a Computer Engineering professional passionate about building scalable appli
 ## About Me
 
 - 🔭 Graduated as a Computer Engineer from Institución Universitaria de Envigado (IUE).
-- 💼 Professional experience as a Software Analyst at Compuhora S.A.S. and IT Architecture Intern at Postobón S.A.
+- 💼 Professional experience as a Systems Analyst at Postobón S.A., and former Software Analyst at Compuhora S.A.S.
 - 🌱 Continuously expanding my knowledge in Angular, .NET Core, and modern web/mobile technologies.
 - 👯 Looking to collaborate on open source and high-impact projects.
 - ⚡ Fun fact: I love football and have a deep interest in Artificial Intelligence.
