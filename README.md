@@ -65,7 +65,8 @@ Here are some of the projects I'm proud of:
 ## Education & Experience
 
 - **Degree in Computer Engineering** – Institución Universitaria de Envigado (IUE)
-- **Software Analyst** – Compuhora S.A.S. (Remote)
+- **Systems Analyst** - Postobón S.A. (On-site)
+- **Software Analyst** – Compuhora S.A.S. (Remote, completed)
 - **IT Architecture Intern** – Postobón S.A. (On-site, completed)
 - **Courses & Certifications:** Angular, .NET Core, SQL, Responsive Design, Cybersecurity, HTML & CSS, Git & GitHub, CCNA.
 
