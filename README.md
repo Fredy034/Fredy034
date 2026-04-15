@@ -61,10 +61,10 @@ Tools and technologies that enhance my development workflow and project manageme
 
 Here are some of the projects I am most proud of:
 
-- Monity: [Live Demo](https://monity.insforge.site/) | [Repository](https://github.com/Fredy034/monity): Personal finance web app focused on expense tracking, budgeting, and financial goal setting. Built with a modern frontend stack (Next.js, TypeScript, Tailwind CSS).
-- Portfolio v2: [Live Demo](https://fredyquintero.netlify.app/) | [Repository](https://github.com/Fredy034/personal-portfolio-v2): Personal portfolio built with React and Vite, including bilingual support (English/Spanish) using i18next and a responsive UI.
-- MoviVerse: [Live Demo](https://fredy034.neocities.org/MovieVerse/index.html): Movie web application powered by the TMDb API to deliver rich movie discovery and details.
-- Code Journey: [Live Demo](https://codejourney.netlify.app/): Mobile learning application designed to help users practice programming through challenges and guided learning.
+- **Monity: [Live Demo](https://monity.insforge.site/) | [Repository](https://github.com/Fredy034/monity)**: Personal finance web app focused on expense tracking, budgeting, and financial goal setting. Built with a modern frontend stack (Next.js, TypeScript, Tailwind CSS).
+- **Portfolio v2: [Live Demo](https://fredyquintero.netlify.app/) | [Repository](https://github.com/Fredy034/personal-portfolio-v2)**: Personal portfolio built with React and Vite, including bilingual support (English/Spanish) using i18next and a responsive UI.
+- **MoviVerse: [Live Demo](https://fredy034.neocities.org/MovieVerse/index.html)**: Movie web application powered by the TMDb API to deliver rich movie discovery and details.
+- **Code Journey: [Live Demo](https://codejourney.netlify.app/)**: Mobile learning application designed to help users practice programming through challenges and guided learning.
 
 ## Education & Experience
 
