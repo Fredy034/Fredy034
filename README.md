@@ -44,16 +44,17 @@ Experience in relational and NoSQL databases for efficient data storage and mana
 ### Tools & Platforms.
 Tools and technologies that enhance my development workflow and project management.
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=white)](https://app.powerbi.com/)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+[![InsForge](https://custom-icon-badges.demolab.com/badge/InsForge-0f0f0f.svg?logo=insforge&logoColor=white)](https://insforge.dev/)
 
 ## My Repositories
 
@@ -61,10 +62,10 @@ Tools and technologies that enhance my development workflow and project manageme
 
 Here are some of the projects I am most proud of:
 
-- **Monity: [Live Demo](https://monity.insforge.site/) | [Repository](https://github.com/Fredy034/monity)**: Personal finance web app focused on expense tracking, budgeting, and financial goal setting. Built with a modern frontend stack (Next.js, TypeScript, Tailwind CSS).
-- **Portfolio v2: [Live Demo](https://fredyquintero.netlify.app/) | [Repository](https://github.com/Fredy034/personal-portfolio-v2)**: Personal portfolio built with React and Vite, including bilingual support (English/Spanish) using i18next and a responsive UI.
-- **MoviVerse: [Live Demo](https://fredy034.neocities.org/MovieVerse/index.html)**: Movie web application powered by the TMDb API to deliver rich movie discovery and details.
-- **Code Journey: [Live Demo](https://codejourney.netlify.app/)**: Mobile learning application designed to help users practice programming through challenges and guided learning.
+- **Monity: <a href="https://monity.insforge.site/" target="_blank" rel="noopener noreferrer">Live Demo</a> | [Repository](https://github.com/Fredy034/monity)**: Personal finance web app focused on expense tracking, budgeting, and financial goal setting. Built with a modern frontend stack (Next.js, TypeScript, Tailwind CSS).
+- **Portfolio v2: <a href="https://fredyquintero.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> | [Repository](https://github.com/Fredy034/personal-portfolio-v2)**: Personal portfolio built with React and Vite, including bilingual support (English/Spanish) using i18next and a responsive UI.
+- **MoviVerse: <a href="https://fredy034.neocities.org/MovieVerse/index.html" target="_blank" rel="noopener noreferrer">Live Demo</a>**: Movie web application powered by the TMDb API to deliver rich movie discovery and details.
+- **Code Journey: <a href="https://codejourney.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>**: Mobile learning application designed to help users practice programming through challenges and guided learning.
 
 ## Education & Experience
 
